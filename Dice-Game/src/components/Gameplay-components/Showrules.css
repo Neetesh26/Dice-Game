@@ -1,0 +1,19 @@
+.rules{
+    background-color: rgb(249, 240, 228);
+    /* display: inline-block; */
+    justify-content: start;
+    margin: 10px 380px;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.rules h2{
+    text-align: start;
+    margin-bottom: 10px;
+}
+.rules p{
+    width: 100%;
+    /* display: inline; */
+    text-align: start;
+    font-size: 15px;
+    font-weight: 500;
+}

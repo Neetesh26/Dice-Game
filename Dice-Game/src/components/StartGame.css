@@ -1,0 +1,29 @@
+.main {
+  display: flex;
+  align-items: center;
+  /* margin-top: 20px; */
+  padding: 0 150px;
+  height: 100vh;
+  column-gap: 20px;
+}
+.Title-sec h1 {
+  text-transform: capitalize;
+  font-size: 7vw;
+  font-weight: bolder;
+}
+.Title-sec button {
+  width: 45%;
+  padding: 8px 70px;
+  font-size: 18px;
+  text-transform: capitalize;
+  font-weight: 600;
+  background-color: transparent;
+  outline: none;
+  border-radius: 10px;
+  transition: all .2s ease-in;
+}
+.Title-sec button:hover{
+    background-color: black;
+    color: #fff;
+    cursor: pointer;
+}

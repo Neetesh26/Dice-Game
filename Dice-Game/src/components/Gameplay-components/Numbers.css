@@ -1,0 +1,30 @@
+.main-box{
+    display: inline-block;
+}
+.box-count{
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 35px;
+    border: 1px solid black;
+   margin-left: 10px;
+
+}
+p{
+    text-transform: capitalize;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: end;
+    margin-top: 10px;
+    letter-spacing: 1px;
+   
+}
+#err{
+    text-transform: capitalize;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: end;
+    margin-top: 10px;
+    letter-spacing: 1px;
+    color: red;
+    margin-bottom: 3px;
+}

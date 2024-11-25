@@ -1,0 +1,19 @@
+.box{
+    /* background-color: antiquewhite; */
+    display: inline-block;
+    
+
+}
+.box h1{
+    /* border:2px solid #080808; */
+     padding: 15px 20px;
+     font-weight: 900;
+     display: grid;
+     place-items: center;
+     font-size: 35px;
+
+}
+.box h2{
+    text-transform: capitalize;
+    margin-top: 5px;
+}
