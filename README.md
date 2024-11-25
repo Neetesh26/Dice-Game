@@ -30,7 +30,7 @@ Welcome to the **Dice Game Application**! This simple and fun game lets you test
 ## 🚀 **Getting Started**  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/dice-game-application.git  
+   git clone https://github.com/Neetesh26/Dice-Game/tree/main/Dice-Game
    ```  
 2. Open the project folder and launch the application in your preferred browser or development environment.  
 
