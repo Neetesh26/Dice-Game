@@ -1,5 +1,3 @@
-Licence - Neetesh_Prajapati🪪
-
 
 # React + Vite
 
